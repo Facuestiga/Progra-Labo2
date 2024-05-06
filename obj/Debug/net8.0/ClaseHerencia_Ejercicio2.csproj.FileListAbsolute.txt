@@ -1,0 +1,14 @@
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\bin\Debug\net8.0\ClaseHerencia_Ejercicio2.exe
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\bin\Debug\net8.0\ClaseHerencia_Ejercicio2.deps.json
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\bin\Debug\net8.0\ClaseHerencia_Ejercicio2.runtimeconfig.json
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\bin\Debug\net8.0\ClaseHerencia_Ejercicio2.dll
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\bin\Debug\net8.0\ClaseHerencia_Ejercicio2.pdb
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.AssemblyInfo.cs
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.dll
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\refint\ClaseHerencia_Ejercicio2.dll
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.pdb
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ClaseHerencia_Ejercicio2.genruntimeconfig.cache
+C:\Users\Facu\source\repos\Clase6\ClaseHerencia_Ejercicio2\obj\Debug\net8.0\ref\ClaseHerencia_Ejercicio2.dll
